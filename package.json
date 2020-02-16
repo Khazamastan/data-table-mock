@@ -1,0 +1,23 @@
+{
+  "name": "data-table-mock",
+  "version": "1.0.0",
+  "description": "data-table-mock",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khazamastan/data-table-mock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khazamastan/data-table-mock/issues"
+  },
+  "homepage": "https://github.com/Khazamastan/data-table-mock#readme"
+}
